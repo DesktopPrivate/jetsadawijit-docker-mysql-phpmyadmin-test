@@ -4,3 +4,7 @@
     <img width="300" src="https://opencollective.com/public/images/opencollectivelogo.svg" alt="Open Collective">
   </a>
 </div>
+
+I use a docker-compose script template to run `docker-compose up -d`
+
+which is designed for testing Docker Compose and SQL Server using Docker
